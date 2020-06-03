@@ -1,0 +1,19 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "gestion de réseaux sociaux",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houssemkaroui/frelence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houssemkaroui/frelence/issues"
+  },
+  "homepage": "https://github.com/houssemkaroui/frelence#readme"
+}
